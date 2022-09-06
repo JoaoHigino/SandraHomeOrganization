@@ -63,7 +63,11 @@ h1, h2{
     background: url("../images/clean-and-tidy-living-room.jpg") no-repeat center center;
 }
 
-
+#caring{
+    text-align: center;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 #working-with-us{
     height: 600px;
@@ -121,7 +125,7 @@ hr{
 
 #why-us {
     text-align: center;
-    margin: 20px 0;
+    margin: 120px 0;
     font-size: 260%;
 }
 
@@ -129,9 +133,9 @@ hr{
 #circle-container {
     width: 400px;
     height: 400px;
-    padding: 40px;
+    padding: 60px;
     border-style: solid;
-    border-color:#ccc ;
+    border-color:transparent ;
     border-width: 1px;
     border-radius: 50%;
     margin: 10%;
@@ -146,3 +150,62 @@ hr{
    
    
 }
+#services{
+    padding-top: 200px;
+    height: 600px;
+
+}
+#services-sandra {
+    padding-top: 50px;
+    text-align: center;
+    margin: 40px 0;
+    font-size: 220%;}
+
+
+#cleaning-box {
+        background-color: brown;
+        position: relative;
+        left: 70px;
+        top: -15px;
+    }
+
+
+#cleaning{
+    padding-top: 50px; 
+    height: 100%;
+}
+
+
+#organization-box {
+	background-color: #6f4e37;
+	position: relative;
+}
+#organization{
+    padding-top: 50px; 
+}
+
+
+#ironing-box {
+	background-color: chocolate;
+    position: relative;
+    right: 70px;
+    top: -15px;
+}
+#ironing{
+    padding-top: 50px; 
+}
+
+#windows-box {
+	background-color: chocolate;
+    position: relative;
+    right: 70px;
+    top: -15px;}
+
+
+#windows{
+        padding-top: 50px;}
+
+
+footer{
+            height: 150px;
+        }        
