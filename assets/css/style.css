@@ -206,6 +206,28 @@ hr{
         padding-top: 50px;}
 
 
-footer{
-            height: 150px;
-        }        
+footer {
+            background-color:black;
+            padding: 1em;
+            text-align: center;
+            width: 100%;
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            z-index: 3;
+        }
+        
+footer > span {
+            color: silver;
+        }
+        
+footer > a {
+            color: beige;
+            text-decoration: none;
+            padding: 0 15px;
+            font-size: 0.8rem;
+        }
+        
+footer > p {
+            color: silver;
+        }
