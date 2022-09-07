@@ -238,3 +238,34 @@ footer > p {
             column-count:1 ;  
             column-gap: 0;   
         }
+
+        @media screen and (max-width:1200px){
+            #working-with-us {
+             width: 65%;
+             height: 1200px;
+             margin: 0 auto;
+            }
+        
+            #why-us{
+                padding: 30px 0;
+                margin: 0;
+            }
+            
+        
+            #left-about, #right-about{
+                width: 100%;
+                float: left;
+                padding: 0;
+            }
+        
+            #center-about{
+                clear: both;
+                width: 100%;
+                float: left;
+                padding: 0;
+            }
+        
+            hr{
+                display: none;
+            }
+        }
