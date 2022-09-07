@@ -231,3 +231,10 @@ footer > a {
 footer > p {
             color: silver;
         }
+
+#photos{
+            clear: both;
+            line-height: 0;
+            column-count:1 ;  
+            column-gap: 0;   
+        }
