@@ -146,64 +146,9 @@ hr{
 #circle-cover-bg{
     background: url("/assets/images/Clean-Home.jpg") no-repeat center center;
     height: 100%;
-    border-radius: 50%;
+    border-radius: 50%;}
    
    
-}
-#services{
-    padding-top: 200px;
-    height: 600px;
-
-}
-#services-sandra {
-    padding-top: 50px;
-    text-align: center;
-    margin: 40px 0;
-    font-size: 220%;}
-
-
-#cleaning-box {
-        background-color: brown;
-        position: relative;
-        left: 70px;
-        top: -15px;
-    }
-
-
-#cleaning{
-    padding-top: 50px; 
-    height: 100%;
-}
-
-
-#organization-box {
-	background-color: #6f4e37;
-	position: relative;
-}
-#organization{
-    padding-top: 50px; 
-}
-
-
-#ironing-box {
-	background-color: chocolate;
-    position: relative;
-    right: 70px;
-    top: -15px;
-}
-#ironing{
-    padding-top: 50px; 
-}
-
-#windows-box {
-	background-color: chocolate;
-    position: relative;
-    right: 70px;
-    top: -15px;}
-
-
-#windows{
-        padding-top: 50px;}
 
 
 footer {
@@ -235,7 +180,7 @@ footer > p {
 #photos{
             clear: both;
             line-height: 0;
-            column-count:1 ;  
+            column-count:3 ;  
             column-gap: 0;   
         }
 
