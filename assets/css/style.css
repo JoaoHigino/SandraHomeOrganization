@@ -298,7 +298,58 @@ footer > p {
         color: #c71313;
     }       
 
-
+    #about-us{
+        text-align: center;
+        margin: 20px 0;
+        font-size: 260%;
+        color: beige;
+    }
     #about{
-        background-color: #252525;
+        background-color: black;
+        color: beige;
+        padding: 40px;
     }    
+
+    #about > p{
+        color: silver;
+    }
+
+    #cleaning{
+        background-image: url("/assets/images/blog_9-Steps-to-Cleaning-Your-Oven-with-Baking-Soda-and-White-Vinegar.jpg");
+        background-repeat: no-repeat;
+        padding: 200px;
+        width: 100%;
+        margin: auto;
+    }
+
+    #organization{
+        background-image: url("/assets/images/closet-organization-ideas-hero-min.webp");
+        background-repeat: no-repeat;
+        padding: 200px;
+        width: 100%;
+        margin: auto;
+    }
+
+    #ironing{
+        background-image: url("/assets/images/tips-for-ironing-clothes.png");
+        background-repeat: no-repeat;
+        padding: 200px;
+        width: 100%;
+        margin: auto;
+    }
+
+    #washing-windows{
+        background-image: url("/assets/images/165761176587.jpg");
+        background-repeat: no-repeat;
+        padding: 200px;
+        width: 100%;
+        margin: auto;
+    }
+
+    #soffa{
+        background-image: url("/assets/images/rainbow2.jpg");
+        background-repeat: no-repeat;
+        padding: 200px;
+        width: 100%;
+        margin: auto;
+    }
