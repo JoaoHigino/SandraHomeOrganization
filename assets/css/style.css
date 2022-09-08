@@ -183,67 +183,66 @@ footer > p {
             column-gap: 0;   
         }
 
-        @media screen and (max-width:1200px){
-            #working-with-us {
+    #photos > img{
+        width: 100%;
+    }
+
+@media screen and (max-width:1200px){
+        #working-with-us {
              width: 65%;
              height: 1200px;
              margin: 0 auto;
             }
         
-            #why-us{
+        #why-us{
                 padding: 30px 0;
                 margin: 0;
             }
             
         
-            #left-about, #right-about{
+        #left-about, #right-about{
                 width: 100%;
                 float: left;
                 padding: 0;
             }
         
-            #center-about{
+        #center-about{
                 clear: both;
                 width: 100%;
                 float: left;
                 padding: 0;
             }
         
-            hr{
+        hr{
                 display: none;
             }
         }
 
-        @media screen and (max-width:900px){
-            #menu{
+    @media screen and (max-width:900px){
+    #menu{
                 clear: left;
                 float: left;
                 margin-left: 30px;
                 margin-bottom: 20px;
                 line-height: 25px;
             }
-            #working-with-us {
+    #working-with-us {
                 width: 90%;
                 height: 1200px;
                 margin:0 auto ;
             }
-            .left-about-heading, .right-about-heading{
+    .left-about-heading, .right-about-heading{
                 width: inherit;
             }
-            .left-about-heading h2, .right-about-heading h2{
+    .left-about-heading h2, .right-about-heading h2{
                 width: 100%;
                 text-align: center;}
         
-            .left-about-heading p, .right-about-heading p{
+    .left-about-heading p, .right-about-heading p{
                     text-align: center;
                     padding: 0 20px;}
-
-            #photos{
-                        column-count:2;
-                    }       
-        }
-
-        .form-section {
+    
+    .form-section {
             clear: left;
             background: url("/assets/images/pexels-lumn-282892.jpg");
             background-size: cover;
@@ -294,4 +293,4 @@ footer > p {
         .send-button:hover {
             background-color: #726b6b;
             color: #c71313;
-        }        
+        }       }
