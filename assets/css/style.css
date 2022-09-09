@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');;
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
 
 *{
     margin: 0;
@@ -314,42 +314,86 @@ footer > p {
         color: silver;
     }
 
+    #based{font-size: 20px
+
+    }
+
     #cleaning{
         background-image: url("/assets/images/blog_9-Steps-to-Cleaning-Your-Oven-with-Baking-Soda-and-White-Vinegar.jpg");
         background-repeat: no-repeat;
         padding: 200px;
-        width: 100%;
-        margin: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
     }
 
     #organization{
         background-image: url("/assets/images/closet-organization-ideas-hero-min.webp");
         background-repeat: no-repeat;
         padding: 200px;
-        width: 100%;
-        margin: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
     }
 
     #ironing{
         background-image: url("/assets/images/tips-for-ironing-clothes.png");
         background-repeat: no-repeat;
         padding: 200px;
-        width: 100%;
-        margin: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 10%;
     }
 
     #washing-windows{
-        background-image: url("/assets/images/165761176587.jpg");
+        background-image: url("../images/window-washing.webp");
         background-repeat: no-repeat;
         padding: 200px;
-        width: 100%;
-        margin: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
     }
 
     #soffa{
-        background-image: url("/assets/images/rainbow2.jpg");
+        background-image: url("/assets/images/RainbowMate-380x380.jpg");
         background-repeat: no-repeat;
         padding: 200px;
-        width: 100%;
-        margin: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 00%;
+        
+    
+    
+
+    }
+    
+    #services{font-size: 30px;
+        text-align: center;
+
+    }
+    #clean{font-size: 25px;
+        text-align: center;
+
+    }
+
+    #organize{font-size: 25px;
+        text-align: center;
+
+    }
+    #iron{font-size: 25px;
+        text-align: center;
+
+    } 
+    #windows{font-size: 25px;
+        text-align: center;
+
+    } 
+    #matress{
+        font-size: 25px;
+        text-align: center;
     }
