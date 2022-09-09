@@ -143,7 +143,7 @@ hr{
 }
 
 #circle-cover-bg{
-    background: url("/assets/images/Clean-Home.jpg") no-repeat center center;
+    background: url("../images/Clean-Home.jpg") no-repeat center center;
     height: 100%;
     border-radius: 50%;}
    
@@ -247,7 +247,7 @@ footer > p {
 
     .form-section {
         clear: left;
-        background: url("/assets/images/pexels-lumn-282892.jpg");
+        background: url("../images/pexels-lumn-282892.jpg");
         background-size: cover;
         background-position: center;
         height: 900px;}
@@ -307,7 +307,7 @@ footer > p {
     #about{
         background-color: black;
         color: beige;
-        padding: 40px;
+        padding: 30px;
     }    
 
     #about > p{
@@ -319,7 +319,7 @@ footer > p {
     }
 
     #cleaning{
-        background-image: url("/assets/images/blog_9-Steps-to-Cleaning-Your-Oven-with-Baking-Soda-and-White-Vinegar.jpg");
+        background-image: url("../images/blog_9-Steps-to-Cleaning-Your-Oven-with-Baking-Soda-and-White-Vinegar.jpg");
         background-repeat: no-repeat;
         padding: 200px;
         display: block;
@@ -329,7 +329,7 @@ footer > p {
     }
 
     #organization{
-        background-image: url("/assets/images/closet-organization-ideas-hero-min.webp");
+        background-image: url("../images/closet-organization-ideas-hero-min.webp");
         background-repeat: no-repeat;
         padding: 200px;
         display: block;
@@ -339,7 +339,7 @@ footer > p {
     }
 
     #ironing{
-        background-image: url("/assets/images/tips-for-ironing-clothes.png");
+        background-image: url("../images/tips-for-ironing-clothes.png");
         background-repeat: no-repeat;
         padding: 200px;
         display: block;
@@ -359,7 +359,7 @@ footer > p {
     }
 
     #soffa{
-        background-image: url("/assets/images/RainbowMate-380x380.jpg");
+        background-image: url("../images/RainbowMate-380x380.jpg");
         background-repeat: no-repeat;
         padding: 200px;
         display: block;
