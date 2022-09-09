@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
 
 *{
-    margin: 0;
+    margin-top: 0.5rem;
     padding: 0;
     border: none;
 }
@@ -70,6 +70,7 @@ h1, h2{
 
 #working-with-us{
     height: 600px;
+
 }
 
 #left-about{
@@ -197,6 +198,7 @@ footer > p {
         #why-us{
                 padding: 30px 0;
                 margin: 0;
+                
             }
             
         
