@@ -69,7 +69,8 @@ h1, h2{
 }
 
 #working-with-us{
-    height: 600px;
+    height: 500px;
+    margin-bottom: 50px;
 
 }
 
@@ -90,7 +91,7 @@ h1, h2{
 
 #center-about{
     width: 33%;
-    margin: 0 auto;
+    margin:auto;
   }
 
 hr{
@@ -153,14 +154,12 @@ hr{
 
 footer {
             background-color:black;
-            padding: 10px;
             text-align: center;
             width: 100%;
             position: fixed;
             bottom: 0;
             right: 0;
-            z-index: 3;
-        }
+            left: 0; }
         
 footer > span {
             color: silver;
@@ -368,7 +367,7 @@ footer > p {
     }
 
     #soffa{
-        background-image: url("../images/organized-garage.jpg");
+        background-image: url("../images/rainbow.jpg");
         background-repeat: no-repeat;
         padding: 200px;
         display: block;
@@ -408,3 +407,13 @@ footer > p {
     #fold-clothes
     {background-image: url("../images/116413535_1983070885161157_3879933162576094917_n.jpg");
                 }
+
+
+    #confirmation{
+        padding: 400px;
+        text-align: center;
+    }
+
+    #confirm{
+        background-image: url("../images/confirmation.jpg");
+    }
