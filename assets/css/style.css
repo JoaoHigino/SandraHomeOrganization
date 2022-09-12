@@ -331,6 +331,7 @@ footer > p {
         margin-left: auto;
         margin-right: auto;
         width: 20%;
+        height: auto;
     }
 
     #organization{
@@ -341,6 +342,7 @@ footer > p {
         margin-left: auto;
         margin-right: auto;
         width: 20%;
+        height: auto;
     }
 
     #ironing{
@@ -351,6 +353,7 @@ footer > p {
         margin-left: auto;
         margin-right: auto;
         width: 10%;
+        height: auto;
     }
 
     #washing-windows{
@@ -361,6 +364,7 @@ footer > p {
         margin-left: auto;
         margin-right: auto;
         width: 20%;
+        height: auto;
     }
 
     #soffa{
@@ -371,11 +375,8 @@ footer > p {
         margin-left: auto;
         margin-right: auto;
         width: 00%;
-        
-    
-    
-
-    }
+        height: auto;
+        }
     
     #services{font-size: 30px;
         text-align: center;
@@ -402,3 +403,8 @@ footer > p {
         font-size: 25px;
         text-align: center;
     }
+
+
+    #fold-clothes
+    {background-image: url("../images/116413535_1983070885161157_3879933162576094917_n.jpg");
+                }
