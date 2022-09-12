@@ -2,7 +2,6 @@
 
 Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With this project we try to show all of our different services to new costumers.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
 
 ![diferent views](https://user-images.githubusercontent.com/111378728/189607060-536239aa-b4d5-4c34-a5a3-bab321840271.png)
 
