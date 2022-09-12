@@ -17,7 +17,7 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-!![sandra nav bar](https://user-images.githubusercontent.com/111378728/189654029-255be596-3fe0-466f-b593-e257963acd70.png)
+![sandra nav bar](https://user-images.githubusercontent.com/111378728/189654029-255be596-3fe0-466f-b593-e257963acd70.png)
 
 
 - __The landing page image__
@@ -25,7 +25,8 @@ In this section, you should go over the different parts of your project, and des
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to Love Running with an eye catching animation to grab their attention
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![main image](https://user-images.githubusercontent.com/111378728/189654419-9e41a95d-1555-4f8a-8773-f06648ddde82.png)
+
 
 - __Club Ethos Section__
 
@@ -46,20 +47,23 @@ In this section, you should go over the different parts of your project, and des
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![footer](https://user-images.githubusercontent.com/111378728/189657843-bfe02a6a-5181-4fda-9424-ef4b5562a648.png)
+
 
 - __Gallery__
 
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![gallery](https://user-images.githubusercontent.com/111378728/189658446-95cd4534-49f2-40c1-b454-1245360a44c9.png)
+
 
 - __The Sign Up Page__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![contact](https://user-images.githubusercontent.com/111378728/189658681-712fae22-1140-4eb4-be7f-43733e6f1655.png)
+
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
@@ -83,7 +87,7 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://user-images.githubusercontent.com/111378728/189607179-c620e38d-5875-4384-bda4-fd7eb4e906c1.png)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
@@ -145,7 +149,7 @@ Getting started with your Portfolio Projects can be daunting, planning your proj
 
 
 
-![w3c](https://user-images.githubusercontent.com/111378728/189607179-c620e38d-5875-4384-bda4-fd7eb4e906c1.png)
+![w3c]
 
 ![performance](https://user-images.githubusercontent.com/111378728/189607849-29e96723-1ed3-4a99-92c0-f5649b4d4289.png)
 
