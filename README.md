@@ -17,7 +17,8 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+!![sandra nav bar](https://user-images.githubusercontent.com/111378728/189654029-255be596-3fe0-466f-b593-e257963acd70.png)
+
 
 - __The landing page image__
 
