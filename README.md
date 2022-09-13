@@ -13,37 +13,39 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages and the shortcut to About Us, the full responsive navigation bar includes links to the Logo, Home page, About Us, Gallery and Contatc page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured on all three pages and the shortcut to About Us, the full responsive navigation bar includes links to the Logo, Home page, About Us, Gallery, and Contact page and is identical on each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back’ button. 
 
 ![sandra nav bar](https://user-images.githubusercontent.com/111378728/189654029-255be596-3fe0-466f-b593-e257963acd70.png)
 
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
-
+  - The landing includes a photograph to allow the user to see how a house can be with our services. 
+  - A motivation phrase under the main image.
+  
 ![main image](https://user-images.githubusercontent.com/111378728/189654419-9e41a95d-1555-4f8a-8773-f06648ddde82.png)
 
 
-- __Club Ethos Section__
+- __About Us Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - Includes a small story about the company. 
+  - In this section, we show our future custumers what type of services we have available.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![about us](https://user-images.githubusercontent.com/111378728/189863490-74697a53-2d98-4b2e-a75b-c77e6e2520a1.png)
 
-- __Meetup Times section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+- __Why have us section__
+
+- This section will allow the user to see some benefits of having us as a cleaning company.  
+
+![house](https://user-images.githubusercontent.com/111378728/189866249-a9d1bbde-3468-47ee-ad0c-06f7213cea4a.png)
+
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Sandra Home and Organization. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![footer](https://user-images.githubusercontent.com/111378728/189657843-bfe02a6a-5181-4fda-9424-ef4b5562a648.png)
@@ -51,8 +53,8 @@ In this section, you should go over the different parts of your project, and des
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery will provide the user with supporting images to see what our final projects look like. 
+  - This section is valuable to the user as they will be able to easily identify the types of services we offer. 
 
 ![gallery](https://user-images.githubusercontent.com/111378728/189658446-95cd4534-49f2-40c1-b454-1245360a44c9.png)
 
