@@ -13,7 +13,7 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages and the shortcup to About Us, the full responsive navigation bar includes links to the Logo, Home page, About Us, Gallery and Contatc page and is identical in each page to allow for easy navigation.
+  - Featured on all three pages and the shortcut to About Us, the full responsive navigation bar includes links to the Logo, Home page, About Us, Gallery and Contatc page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![sandra nav bar](https://user-images.githubusercontent.com/111378728/189654029-255be596-3fe0-466f-b593-e257963acd70.png)
