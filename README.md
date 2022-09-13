@@ -38,7 +38,7 @@ In this section, you should go over the different parts of your project, and des
 
 - __Why have us section__
 
-- This section will allow the user to see some benefits of having us as a cleaning company.  
+  - This section will allow the user to see some benefits of having us as a cleaning company.  
 
 ![house](https://user-images.githubusercontent.com/111378728/189866249-a9d1bbde-3468-47ee-ad0c-06f7213cea4a.png)
 
