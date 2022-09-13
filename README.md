@@ -66,13 +66,23 @@ In this section, you should go over the different parts of your project, and des
 ![contact](https://user-images.githubusercontent.com/111378728/189658681-712fae22-1140-4eb4-be7f-43733e6f1655.png)
 
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
-- Another feature idea
+- Add some videos demonstrating our different types of services.
+
+## Technologies Used
+HTML5 - basic coding to build a website
+CSS3 - used for styling the website
+Gitpod - used to create the website
+Github - used to store repository of website and deploy website
+Chrome Dev Tools - used to view and experiment with styles
+Font Awsome - used to find the icons
+Google Fonts - used to find the fonts for the website
+Pexels - provided the images seen throughout the website
+Ui.dev - created a multi image display of webpage on multiple devices
+Eye Dropper - Chrome add on that allowed me to pick the exact color I was after
+Canva - Color pairing tool that showed me which colors went well with the ones i chose
 
 ## Testing 
 
