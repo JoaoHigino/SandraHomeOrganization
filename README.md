@@ -114,6 +114,7 @@ In this section, you should go over the different parts of your project, and des
  
 - Wave
   -  No errors were returned when passing through the extension
+  
  ![wave](https://user-images.githubusercontent.com/111378728/189883334-719b976a-1604-4e64-afe2-6f8b6ca80d3b.png)
 
 
