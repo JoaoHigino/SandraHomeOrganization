@@ -72,17 +72,16 @@ In this section, you should go over the different parts of your project, and des
 - Add some videos demonstrating our different types of services.
 
 ## Technologies Used
-HTML5 - basic coding to build a website
-CSS3 - used for styling the website
-Gitpod - used to create the website
-Github - used to store repository of website and deploy website
-Chrome Dev Tools - used to view and experiment with styles
-Font Awsome - used to find the icons
-Google Fonts - used to find the fonts for the website
-Pexels - provided the images seen throughout the website
-Ui.dev - created a multi image display of webpage on multiple devices
-Eye Dropper - Chrome add on that allowed me to pick the exact color I was after
-Canva - Color pairing tool that showed me which colors went well with the ones i chose
+- HTML5 - basic coding to build a website
+- CSS3 - used for styling the website
+- Gitpod - used to create the website
+- Github - used to store repository of website and deploy the website
+- Chrome Dev Tools - used to view and experiment with styles
+- Font Awsome - used to find the icons
+- Google Fonts - used to find the fonts for the website
+- Pexels - provided the images seen throughout the website
+- Grammarly - used to fix language errors
+
 
 ## Testing 
 
@@ -110,8 +109,6 @@ If this section grows too long, you may want to split it off into a separate fil
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
