@@ -108,9 +108,14 @@ In this section, you should go over the different parts of your project, and des
   - No errors were found when passing through the official
   ![w3c](https://user-images.githubusercontent.com/111378728/189869152-42853857-d7a3-43fa-ab82-aa51f722a699.png)
   
- - Lighhouse
+- Lighhouse
   - The site scored very well
- - ![performance](https://user-images.githubusercontent.com/111378728/189873598-6218450e-9025-4f01-8aef-933fbcded571.png)
+ ![performance](https://user-images.githubusercontent.com/111378728/189873598-6218450e-9025-4f01-8aef-933fbcded571.png)
+ 
+- Wave
+  -  No errors were returned when passing through the extension
+ ![wave](https://user-images.githubusercontent.com/111378728/189883334-719b976a-1604-4e64-afe2-6f8b6ca80d3b.png)
+
 
 
 ### Unfixed Bugs
