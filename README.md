@@ -104,7 +104,7 @@ In this section, you should go over the different parts of your project, and des
   ![w3c](https://user-images.githubusercontent.com/111378728/189869152-42853857-d7a3-43fa-ab82-aa51f722a699.png)
   
  - Lighhouse
- - The site scored very well
+  - The site scored very well
  - ![performance](https://user-images.githubusercontent.com/111378728/189873598-6218450e-9025-4f01-8aef-933fbcded571.png)
 
 
@@ -124,20 +124,20 @@ The live link can be found here - (https://joaohigino.github.io/SandraHomeOrgani
 
 ## Credits
 
-1. [Code Institute Template](https://github.com/Code-Institute-Org/gitpod-full-template)
-    - This repository was created using the template provided by Code Institute. Also, without the knowledge gained through the course work, I could not be able to create this site so thank you Code Institute.
-1. [Wallpaper Abyss](https://wall.alphacoders.com/)
-    - Wallpaper Abyss had a wide range of fantastic Destiny-related images and it was here that I got my hero image.
-1. [DEV](https://dev.to/)
-    - DEV provided the tutorial to create the mobile [hamburger menu](https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci).
-1. [Wallpaper Abyss](https://wall.alphacoders.com/)
-    - Wallpaper Abyss had a wide range of fantastic Destiny-related images and it was here that I got my hero image.
-1. [Bungie](https://www.bungie.net/), [Braytech](https://bray.tech/), [Destiny Item Manager](https://app.destinyitemmanager.com/login), [Destiny Recipes](https://destinyrecipes.com/), [Destiny Reddit](https://www.reddit.com/r/DestinyTheGame/), [Destiny Companion](https://play.google.com/store/apps/details?id=com.bungieinc.bungiemobile&gl=IE), [Ishtar Commander](https://play.google.com/store/apps/details?id=com.unintuitive.IshtarCommander&gl=IE), [Destiny Trials Report](https://play.google.com/store/apps/details?id=com.plafhop.trialsreport&hl=en_IE&gl=US), [Where is Xur?](https://play.google.com/store/apps/details?id=com.crocusgames.whereisxur&gl=IE), [My name is Byf ](https://www.youtube.com/c/MynameisByf).
-    - Big credit goes out to the developers of all the sites & apps I have included on my site, each site or app provided the screenshots and descriptive text used on the site, and having them all in one location was my motivation for this site. Credit to My name is Byf who continues to create fantastic Destiny Lore videos on Youtube.
-1. [W3schools](https://www.w3schools.com/)
-    - W3schools provided the tutorial to create the ["Hide Menu on Scroll"](https://www.w3schools.com/howto/howto_js_navbar_hide_scroll.asp) that has been implemented on the site. I would often use W3schools exercises as a break sometimes and gathered a lot of knowledge there as well.
-1. [DesignCourse](https://www.youtube.com/c/DesignCourse), [Kevin Powell](https://www.youtube.com/kepowob), [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified).
-    - All of the above for creating fantastic videos on HTML & CSS, a lot of knowledge was gained from hours of viewing.
+For inspiration and help with figuring out the code I used following resources
+
+[w3schools](https://www.w3schools.com/)
+
+[Stack Overflow](https://stackoverflow.com/)
+
+[MDN](https://developer.mozilla.org/en-US/)
+
+Love Running Code Institute Project
+
+
+## **Content**
+
+All content was written by developer. 
 
 ## Acknowledgements
 
