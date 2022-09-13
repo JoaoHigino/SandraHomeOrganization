@@ -65,6 +65,11 @@ In this section, you should go over the different parts of your project, and des
 
 ![contact](https://user-images.githubusercontent.com/111378728/189658681-712fae22-1140-4eb4-be7f-43733e6f1655.png)
 
+- __The confirmation Page__
+
+  - This page will confirm to the users that we receive their message and we will reach out as soon as possible.
+  
+ ![confirmation](https://user-images.githubusercontent.com/111378728/189882817-4c3e138b-5733-4cb3-8814-d01c5aad3cd3.png)
 
 
 ### Features Left to Implement
