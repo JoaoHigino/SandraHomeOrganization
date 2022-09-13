@@ -73,14 +73,16 @@ In this section, you should go over the different parts of your project, and des
 
 ## Technologies Used
 - HTML5 - basic coding to build a website
-- CSS3 - used for styling the website
-- Gitpod - used to create the website
-- Github - used to store repository of website and deploy the website
-- Chrome Dev Tools - used to view and experiment with styles
-- Font Awsome - used to find the icons
-- Google Fonts - used to find the fonts for the website
+- CSS3 - was used for styling the website
+- Gitpod - was used to create the website
+- Github - was used to store repository of website and deploy the website
+- Chrome Dev Tools - was used to view and experiment with styles
+- Font Awsome - was used to find the icons
+- Google Fonts - was used to find the fonts for the website
 - Pexels - provided the images seen throughout the website
-- Grammarly - used to fix language errors
+- Grammarly - was used to check typography.
+- Am I Responsive - was used to produce the website mockup.
+
 
 
 ## Testing 
