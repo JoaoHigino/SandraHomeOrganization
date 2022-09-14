@@ -5,9 +5,6 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
 
 ![diferent views](https://user-images.githubusercontent.com/111378728/189607060-536239aa-b4d5-4c34-a5a3-bab321840271.png)
 
-## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
