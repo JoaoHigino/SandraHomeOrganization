@@ -88,22 +88,13 @@ h2 {
     
     width: 100%;
     text-align: center;
-
-
 }
 
 
 #right-about {
-    
     width: 100%;
     text-align: center;
-
-
 }
-
-
-
-
 .left-about-heading {
     width: 100%;
     line-height: 20px;
@@ -111,26 +102,22 @@ h2 {
     margin-bottom: 60px;
     text-align: center;
 }
-
 .right-about-heading {
     width: 100%;
     line-height: 20px;
     clear: both;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
     text-align: center;
 }
-
 .right-about-heading h2 {
     text-align: center;
 }
-
 .right-about-heading p {
     text-align: center;
 }
-
 #why-us {
     text-align: center;
-    margin: 120px 0;
+    margin: 80px 0;
     font-size: 260%;
 }
 
