@@ -28,7 +28,7 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
   - Includes a small story about the company. 
   - In this section, we show our future custumers what type of services we have available.
 
-![about us](https://user-images.githubusercontent.com/111378728/189863490-74697a53-2d98-4b2e-a75b-c77e6e2520a1.png)
+![about us](./documentation/about_us.png)
 
 
 
@@ -36,7 +36,7 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
 
   - This section will allow the user to see some benefits of having us as a cleaning company.  
 
-![house](https://user-images.githubusercontent.com/111378728/189866249-a9d1bbde-3468-47ee-ad0c-06f7213cea4a.png)
+![house](./documentation/why_us.png)
 
 
 - __The Footer__ 
@@ -44,7 +44,7 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
   - The footer section includes links to the relevant social media sites for Sandra Home and Organization. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![footer](https://user-images.githubusercontent.com/111378728/189657843-bfe02a6a-5181-4fda-9424-ef4b5562a648.png)
+![footer](./documentation/footer.png)
 
 
 - __Gallery__
@@ -52,20 +52,20 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
   - The gallery will provide the user with supporting images to see what our final projects look like. 
   - This section is valuable to the user as they will be able to easily identify the types of services we offer. 
 
-![gallery](https://user-images.githubusercontent.com/111378728/189658446-95cd4534-49f2-40c1-b454-1245360a44c9.png)
+![gallery](./documentation/gallery.png)
 
 
 - __The contact Page__
 
   - This page will allow the user to choose which service they need. The user will be asked to submit their full name and email address. 
 
-![contact](https://user-images.githubusercontent.com/111378728/189658681-712fae22-1140-4eb4-be7f-43733e6f1655.png)
+![contact](./documentation/contact.png)
 
 - __The confirmation Page__
 
   - This page will confirm to the users that we receive their message and we will reach out as soon as possible.
   
- ![confirmation](https://user-images.githubusercontent.com/111378728/189882817-4c3e138b-5733-4cb3-8814-d01c5aad3cd3.png)
+ ![confirmation](./documentation/confirmation.png)
 
 
 ### Features Left to Implement
@@ -97,16 +97,19 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
 
 - HTML
   - No errors were returned when passing through the official
-  ![html checker](https://user-images.githubusercontent.com/111378728/189870229-6db1cb97-75f9-4da1-a677-2ef01babc7d3.png)
+  ![html checker](./documentation/html_checker.png)
+  ![html checker](./documentation/html-gallety.png)
+  ![html checker](./documentation/html-contact.png)
 
 - CSS
   - No errors were found when passing through the official
-  ![w3c](https://user-images.githubusercontent.com/111378728/189869152-42853857-d7a3-43fa-ab82-aa51f722a699.png)
+  ![w3c](./documentation/w3c.png)
   
 - Lighhouse
   - The site scored very well
- ![performance](https://user-images.githubusercontent.com/111378728/189873598-6218450e-9025-4f01-8aef-933fbcded571.png)
- 
+ ![performance](./documentation/performance.png)
+ ![performance](./documentation/performance-gallery.png)
+ ![performance](./documentation/performance-contact.png)
 
 ### Unfixed Bugs
 
