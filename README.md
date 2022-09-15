@@ -79,7 +79,6 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
 - Gitpod - was used to create the website
 - Github - was used to store repository of website and deploy the website
 - Chrome Dev Tools - was used to view and experiment with styles
-- Font Awsome - was used to find the icons
 - Google Fonts - was used to find the fonts for the website
 - Pexels - provided the images seen throughout the website
 - Grammarly - was used to check typography.
