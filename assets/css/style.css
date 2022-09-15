@@ -4,6 +4,7 @@
 html {
     scroll-behavior: smooth;
 }
+
 /* margin top */
 * {
     margin-top: 0.5rem;
@@ -111,7 +112,7 @@ h2 {
     width: 100%;
     line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     text-align: center;
 }
 
@@ -173,7 +174,6 @@ footer>p {
 @media screen and (max-width:1200px) {
     #working-with-us {
         width: 65%;
-        
         margin: 0 auto;
     }
 
@@ -187,7 +187,6 @@ footer>p {
     #left-about,
     #right-about {
         width: 100%;
-    
         padding: 0;
     }
 
