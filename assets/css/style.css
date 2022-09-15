@@ -84,7 +84,7 @@ h2 {
 
 /* about us */
 #working-with-us {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 
 }
 
@@ -102,16 +102,14 @@ h2 {
 
 .left-about-heading {
     width: 100%;
-    line-height: 20px;
-    clear: both;
+    line-height: 40px;
     margin-bottom: 60px;
     text-align: center;
 }
 
 .right-about-heading {
     width: 100%;
-    line-height: 20px;
-    clear: both;
+    line-height: 40px;
     margin-bottom: 100px;
     text-align: center;
 }
@@ -126,8 +124,8 @@ h2 {
 
 #why-us {
     text-align: center;
-    margin: 80px 0;
-    font-size: 260%;
+    margin: 50px 0;
+    font-size: 190%;
 }
 
 
@@ -206,7 +204,6 @@ footer>p {
 
     #working-with-us {
         width: 90%;
-        height: 1200px;
         margin: 0 auto;
     }
 
@@ -225,6 +222,7 @@ footer>p {
     .right-about-heading p {
         text-align: center;
         padding: 0 20px;
+        
     }
 
 
