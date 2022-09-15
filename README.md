@@ -74,8 +74,8 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
 
 ## Technologies Used
 
-- HTML5 - basic coding to build a website
-- CSS3 - was used for styling the website
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [Gitpod](https://www.gitpod.io) - was used to create the website
 - [Github](https://github.com) - was used to store repository of website and deploy the website
 - [Chrome Dev Tools](https://developer.chrome.com/docs/devtools) - was used to view and experiment with styles
