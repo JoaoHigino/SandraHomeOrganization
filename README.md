@@ -80,19 +80,25 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
 - Chrome Dev Tools - was used to view and experiment with styles
 - Google Fonts - was used to find the fonts for the website
 - Pexels - provided the images seen throughout the website
-- Grammarly - was used to check typography.
+- Grammarly https://app.grammarly.com/ - was used to check typography.
 - Am I Responsive - was used to produce the website mockup.
 
 
 
 ## Testing 
 
-- The website was tested on Google Chrome, Internet Explorer, Microsoft Edge, Mozilla Firefox, and Safari browsers.
+
 - The website was viewed on a variety of devices such as desktops, Laptops, Apples Products (IPad Pro, iPhone 10 Pro, iPhone 11), and a range of Android devices (Huawei PSmart, Samsung A52, Tablet Lenovo Tb , Tablet Lenovo M10 Plus).
 - A large amount of testing was done to ensure that all pages were linking correctly.
 - I asked friends and family members to review the site and document any bugs and/or user experience issues.
 
-
+## Browser testing
+- Chrome
+![chrome checker](./documentation/)
+- Opera
+![opera checker](./documentation/opera.png)
+- Edge
+![edge checker](./documentation/edge.png)
 ### Validator Testing 
 
 - HTML
@@ -106,9 +112,11 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
   ![w3c](./documentation/w3c.png)
   
 - Lighhouse
-  - The site scored very well
+  - The site scored well
  ![performance](./documentation/performance.png)
+  - The low performance is due to large image dimensions.
  ![performance](./documentation/performance-gallery.png)
+  - The low performance is due to large image dimensions.
  ![performance](./documentation/performance-contact.png)
 
 ### Unfixed Bugs
