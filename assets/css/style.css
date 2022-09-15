@@ -80,12 +80,12 @@ h2 {
 
 /* about us */
 #working-with-us {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 
 }
 
 #left-about {
-    padding-top: 5px;
+    
     width: 100%;
     text-align: center;
 
@@ -94,7 +94,7 @@ h2 {
 
 
 #right-about {
-    padding-top: 5px;
+    
     width: 100%;
     text-align: center;
 
@@ -108,7 +108,7 @@ h2 {
     width: 100%;
     line-height: 20px;
     clear: both;
-    margin-bottom: 150px;
+    margin-bottom: 60px;
     text-align: center;
 }
 
@@ -116,7 +116,7 @@ h2 {
     width: 100%;
     line-height: 20px;
     clear: both;
-    margin-bottom: 150px;
+    margin-bottom: 60px;
     text-align: center;
 }
 
