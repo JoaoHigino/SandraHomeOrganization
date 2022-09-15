@@ -130,7 +130,7 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
 
  ![performance](./documentation/performance.png)
 
-   - The low performance is due to large image dimensions
+   - The site scored well
 
  ![performance](./documentation/performance-gallery.png)
 
