@@ -93,18 +93,23 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
 - Edge
 ![edge checker](./documentation/edge.png)
 - Safari
+
 ![safari checker](./documentation/safari.jpg)
 
 ## Mobile Testing 
 
 - The website was viewed on a variety of devices such as desktops, Laptops, Apples Products and a range of Android devices:
   - IPad Mini
+
   ![ipad checker](./documentation/ipad%20mini.png)
   - iPhone 12 Pro
+
   ![iphone checker](./documentation/iphone12pro.png)
   - Samsung Galaxy Fold
+
   ![fold checker](./documentation/fold.png)
   - Samsung Galaxy S20
+
   ![galaxy checker](./documentation/galaxys20.png)
 
 
@@ -122,13 +127,18 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
   
 - Lighhouse
   - The site scored well
+
  ![performance](./documentation/performance.png)
-  - The low performance is due to large image dimensions.
+
+   - The low performance is due to large image dimensions
+
  ![performance](./documentation/performance-gallery.png)
-  - The low performance is due to large image dimensions.
+
+   - The low performance is due to large image dimensions
+
  ![performance](./documentation/performance-contact.png)
 
-### Unfixed Bugs
+## Unfixed Bugs
 
 No unfixed bugs that i am aware.
 
