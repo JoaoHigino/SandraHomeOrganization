@@ -3,8 +3,7 @@
 Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With this project we try to show all of our different services to new costumers.
 
 
-![diferent views](https://user-images.githubusercontent.com/111378728/189607060-536239aa-b4d5-4c34-a5a3-bab321840271.png)
-
+![diferent views](./documentation/diferent_views.png)
 
 ### Existing Features
 
@@ -13,7 +12,7 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
   - Featured on all three pages and the shortcut to About Us, the full responsive navigation bar includes links to the Logo, Home page, About Us, Gallery, and Contact page and is identical on each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back’ button. 
 
-![sandra nav bar](https://user-images.githubusercontent.com/111378728/189654029-255be596-3fe0-466f-b593-e257963acd70.png)
+![sandra nav bar](./documentation/sandra_nav_bar.png)
 
 
 - __The landing page image__
@@ -21,7 +20,7 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
   - The landing includes a photograph to allow the user to see how a house can be with our services. 
   - A motivation phrase under the main image.
   
-![main image](https://user-images.githubusercontent.com/111378728/189654419-9e41a95d-1555-4f8a-8773-f06648ddde82.png)
+![main image](./documentation/main_image.png)
 
 
 - __About Us Section__
@@ -108,38 +107,29 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
   - The site scored very well
  ![performance](https://user-images.githubusercontent.com/111378728/189873598-6218450e-9025-4f01-8aef-933fbcded571.png)
  
-- Wave
-  -  No errors were returned when passing through the extension
-  
- ![wave](https://user-images.githubusercontent.com/111378728/189883334-719b976a-1604-4e64-afe2-6f8b6ca80d3b.png)
-
-
 
 ### Unfixed Bugs
 
-No unfixed bugs.
+No unfixed bugs that i am aware.
 
 ## Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the [GitHub repository](https://github.com/JoaoHigino/SandraHomeOrganization), navigate to the Settings tab 
+  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - (https://joaohigino.github.io/SandraHomeOrganization/)
+The live link can be found [here](https://joaohigino.github.io/SandraHomeOrganization)
 
+### Local Deployment
 
-## Credits
+In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
 
-For inspiration and help with figuring out the code I used following resources
+- `git clone https://github.com/JoaoHigino/SandraHomeOrganization.gitX`
 
-[w3schools](https://www.w3schools.com/)
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
 
-[Stack Overflow](https://stackoverflow.com/)
-
-[MDN](https://developer.mozilla.org/en-US/)
-
-Love Running Code Institute Project
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/JoaoHigino/SandraHomeOrganization)
 
 
 ## **Content**
