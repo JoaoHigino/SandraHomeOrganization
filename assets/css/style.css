@@ -90,10 +90,6 @@ h1, h2{
     
 }
 
-#center-about{
-    width: 33%;
-    margin:auto;
-  }
 
 hr{
     border-top: 1px solid #3a3a3a;
@@ -131,25 +127,6 @@ hr{
     font-size: 260%;
 }
 
-
-#circle-container {
-    width: 400px;
-    height: 400px;
-    padding: 60px;
-    border-style: solid;
-    border-color:transparent ;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 10%;
-    
-    
-}
-
-#circle-cover-bg{
-    background: url("../images/clean-home.jpg") no-repeat center center;
-    height: 100%;
-    border-radius: 50%;
-    margin-top: 80px;}
    
 /* footer */
 footer {
