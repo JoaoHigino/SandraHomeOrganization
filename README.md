@@ -73,26 +73,27 @@ Sandra Home and Organization is a cleaning company based in Malmo, Sweden. With 
 - Add some videos demonstrating our different types of services.
 
 ## Technologies Used
+
 - HTML5 - basic coding to build a website
 - CSS3 - was used for styling the website
-- Gitpod - was used to create the website
-- Github - was used to store repository of website and deploy the website
-- Chrome Dev Tools - was used to view and experiment with styles
-- Google Fonts - was used to find the fonts for the website
-- Pexels - provided the images seen throughout the website
-- Grammarly https://app.grammarly.com/ - was used to check typography.
-- Am I Responsive - was used to produce the website mockup.
+- [Gitpod](https://www.gitpod.io) - was used to create the website
+- [Github](https://github.com) - was used to store repository of website and deploy the website
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools) - was used to view and experiment with styles
+- [Google Fonts](https://fonts.google.com) - was used to find the fonts for the website
+- [Pexels](https://www.pexels.com) - provided the images seen throughout the website
+- [Grammarly] (https://app.grammarly.com) - was used to check typography.
+- [Am I Responsive](https://ui.dev/amiresponsive?url=https://joaohigino.github.io/SandraHomeOrganization/) - was used to produce the website mockup.
 
 ## Browser testing
+
 - Chrome
-![chrome checker](./documentation/)
+![chrome checker](./documentation/chrome.png)
 - Opera
 ![opera checker](./documentation/opera.png)
 - Edge
 ![edge checker](./documentation/edge.png)
 
 ## Mobile Testing 
-
 
 - The website was viewed on a variety of devices such as desktops, Laptops, Apples Products and a range of Android devices:
   - IPad Mini
