@@ -173,7 +173,7 @@ footer>p {
 @media screen and (max-width:1200px) {
     #working-with-us {
         width: 65%;
-        height: 1200px;
+        
         margin: 0 auto;
     }
 
@@ -187,7 +187,7 @@ footer>p {
     #left-about,
     #right-about {
         width: 100%;
-        float: left;
+    
         padding: 0;
     }
 
