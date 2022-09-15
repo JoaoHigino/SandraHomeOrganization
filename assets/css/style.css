@@ -222,9 +222,13 @@ footer>p {
     .right-about-heading p {
         text-align: center;
         padding: 0 20px;
-        
+
     }
 
+    .confirmation {
+        width: 100%;
+        text-align: center;
+    }
 
 }
 
